@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="autoload.php" server="transportarlogistics.com" local="133274457681275111" remote="133240405200000000" Dst="2" />
+<file name="config.php" server="transportarlogistics.com" local="133274457684073536" remote="133240379400000000" Dst="2" />
+<file name="database.php" server="transportarlogistics.com" local="133274457685333200" remote="133240474800000000" Dst="2" />
+<file name="doctypes.php" server="transportarlogistics.com" local="133274457687761238" remote="133240150200000000" Dst="2" />
+<file name="constants.php" server="transportarlogistics.com" local="133274457684129727" remote="133240150200000000" Dst="2" />
+<file name="email_reset_pass.php" server="transportarlogistics.com" local="133235606244139755" remote="133235203200000000" Dst="0" />
+<file name="foreign_chars.php" server="transportarlogistics.com" local="133274457688248968" remote="133240150200000000" Dst="2" />
+<file name="hooks.php" server="transportarlogistics.com" local="133274457689375347" remote="133240150200000000" Dst="2" />
+<file name="index.html" server="transportarlogistics.com" local="133274457691943497" remote="133240150200000000" Dst="2" />
+<file name="memcached.php" server="transportarlogistics.com" local="133274457691929756" remote="133240150200000000" Dst="2" />
+<file name="migration.php" server="transportarlogistics.com" local="133274457693638510" remote="133240150200000000" Dst="2" />
+<file name="mimes.php" server="transportarlogistics.com" local="133274457695737932" remote="133240150200000000" Dst="2" />
+<file name="routes.php" server="transportarlogistics.com" local="133274457697593473" remote="133240376400000000" Dst="2" />
+<file name="profiler.php" server="transportarlogistics.com" local="133274457696224508" remote="133240150200000000" Dst="2" />
+<file name="smileys.php" server="transportarlogistics.com" local="133274457699682571" remote="133240150200000000" Dst="2" />
+<file name="user_agents.php" server="transportarlogistics.com" local="133274457700266339" remote="133240150200000000" Dst="2" />
+</dwsync>

@@ -1,0 +1,2 @@
+[25-Mar-2023 22:05:36 UTC] PHP Fatal error:  Cannot redeclare Contact_us::edit_contact_us() in /home/ghdtnh63yyx4/public_html/transportarlogistics.com/actrl/application/controllers/Contact_us.php on line 35
+[25-Mar-2023 22:06:17 UTC] PHP Fatal error:  Cannot redeclare Contact_us::edit_contact_us() in /home/ghdtnh63yyx4/public_html/transportarlogistics.com/actrl/application/controllers/Contact_us.php on line 35

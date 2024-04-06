@@ -1,0 +1,789 @@
+/* Fastrans HTML-5 Template */
+
+@media only screen and (max-width: 1340px){
+
+	.page-wrapper{
+		overflow:hidden;	
+	}
+	
+}
+
+@media only screen and (max-width: 1140px){
+	
+	h1{
+		font-size:68px;
+	}
+	
+	.ft1-main-slider h1 span{
+		font-size:50px;
+	}
+	
+	.ft3-header-top-three .social-box span,
+	.ft1-main-header .btn-box{
+		display:none;
+	}
+	
+	.ft1-main-header .search-box-btn{
+		margin-right:20px;
+	}
+	
+	.ft1-welcome-section .content-column .inner-column{
+		padding-top:0px;
+	}
+	
+	.ft1-track-tabs .tab-btns .tab-btn{
+		width:49.5%;
+	}
+	
+	.ft1-testimonial-section .sec-title .text{
+		max-width:450px;
+	}
+	
+	.ft1-testimonial-section .sec-title .text br{
+		display:none;
+	}
+	
+	.ft1-news-block .inner-box .image .post-info{
+		padding:15px 20px;
+	}
+	
+	.ft1-news-block .inner-box .image .post-info li{
+		margin-right:15px;
+		font-size:14px;
+	}
+	
+	.ft2-footer-style-two .newsletter-widget .widget-content{
+		padding-left:0px;
+	}
+	
+	.ft2-services-section-three .carousel-column .pattern-layer,
+	.ft2-opportunity-section .skill-column .inner-column .sec-title-two .text br,
+	.ft2-contact-cta-section .right-column .text br,
+	.ft2-contact-cta-section .left-column .text br{
+		display:none;
+	}
+	
+	.ft2-opportunity-section .counter-column .inner-column{
+		margin-left:0px;
+	}
+	
+	.ft2-team-section .sec-title-two h2{
+		font-size:50px;
+	}
+	
+	.main-menu .navigation > li.dropdown:hover > ul,
+	.ft3-header-style-three .main-menu .navigation > li > ul{
+		right:0px;
+		left:auto;
+	}
+	
+	.ft3-contact-info-section .contact-column .lower-box a{
+		font-size:15px;
+	}
+	
+	.ft3-about-section .title-column .text{
+		font-size:18px;
+	}
+	
+	.ft3-service-block-three .inner-box{
+		padding:80px 30px;
+	}
+	
+	.ft3-testimonial-block-three .content-column .inner-column{
+		padding:0px 130px 40px 40px;
+	}
+	
+}
+
+@media only screen and (min-width: 768px){
+	
+	.main-menu .navigation > li > ul,
+	.main-menu .navigation > li > ul > li > ul{
+		display:block !important;
+		visibility:hidden;
+		opacity:0;
+	}
+	
+}
+
+@media only screen and (max-width: 1023px){
+	
+	.main-menu{
+		display:none;
+	}
+	
+	.ft1-main-header .nav-outer .mobile-nav-toggler{
+		display:block;
+	}
+	
+	.nav-outer .mobile-nav-toggler{
+		display: block;
+		margin: 0;
+		padding: 10px 0px 0px;
+		margin-left: 20px;
+	}
+	
+	#navbarSupportedContent{
+		display:block;
+	}
+	
+	.mCSB_inside > .mCSB_container{
+		margin-right:0px;
+	}
+	
+	.ft1-main-header .outer-box{
+		float:left;
+	}
+	
+	.ft1-main-header .btn-box{
+		display:block;
+	}
+	
+	.ft1-main-header .nav-outer{
+		padding-right:20px;
+	}
+	
+	.sticky-header .mobile-nav-toggler{
+		display:block;
+		margin-left:20px;
+	}
+	
+	h1{
+		font-size:54px;
+	}
+	
+	.ft1-tracking-section .featured-column .inner-column::before{
+		left:-30px;
+	}
+	
+	.feature-block .inner-box h6{
+		padding-right:15px;
+	}
+	
+	.ft1-welcome-section .content-column{
+		order:1;
+		padding-bottom:40px;
+	}
+	
+	.ft1-welcome-section .image-column{
+		order:2;
+	}
+	
+	.ft1-services-section .sec-title .pull-right{
+		width:100%;
+	}
+	
+	.ft1-services-section .sec-title .btn-box{
+		margin-top:30px;
+	}
+	
+	.ft1-steps-section .inner-container{
+		padding:0px 0px;
+	}
+	
+	.step-block .inner-box::before{
+		display:none;
+	}
+	
+	.ft1-tracking-section-two .career-column .inner-column{
+		margin-left:0px;
+	}
+	
+	.ft1-testimonial-section .sec-title .pull-right{
+		width:100%;
+	}
+	
+	.ft1-testimonial-section .sec-title .text{
+		max-width:100%;
+	}
+	
+	.ft1-news-block .inner-box .image .post-info{
+		padding-bottom:5px;
+	}
+	
+	.ft1-news-block .inner-box .image .post-info li{
+		margin-bottom:10px;
+	}
+	
+	.ft1-news-block .inner-box .lower-content{
+		padding:20px 20px;
+	}
+	
+	.ft2-banner-section .lower-content .social-box{
+		text-align:center;
+		margin-top:20px;
+	}
+	
+	.ft2-banner-section .lower-content .text{
+		max-width:100%;
+		text-align:center;
+	}
+	
+	.ft2-banner-section .lower-content .down-arrow{
+		position:relative;
+		left:0px;
+		margin-left:0px;
+		margin:0 auto;
+		margin-top:40px;
+	}
+	
+	.ft2-banner-section .lower-content{
+		padding-top:40px;
+	}
+	
+	.ft2-banner-section{
+		padding-top:200px;
+	}
+	
+	.ft2-contact-cta-section .left-column{
+		width:100%;
+	}
+	
+	.ft2-contact-cta-section .right-column{
+		width:100%;
+	}
+	
+	.ft2-opportunity-section .skill-column .ft2-skills{
+		padding-right:0px;
+	}
+	
+	.ft2-opportunity-section .counter-column .ft-fact-counter{
+		top:auto;
+		bottom:0px;
+	}
+	
+	.ft2-team-section .sec-title-two .pull-right{
+		width:100%;
+	}
+	
+	.ft2-team-section .sec-title-two .text br{
+		display:none;
+	}
+	
+	.ft1-services-section .carousel-column .inner-column{
+		margin-top:0px;
+	}
+	
+	.ft2-testimonial-block-two .inner-box .text{
+		font-size:24px;
+	}
+	
+	.ft2-footer-style-two .newsletter-widget .widget-content{
+		padding-top:40px;
+	}
+	
+	.ft1-main-header.ft2-header-style-two .sticky-header .sticky-nav-toggler{
+		position:relative;
+		margin-left:0px;
+		display:block !important;
+	}
+	
+		.ft2-team-section .team-block.translate-top{
+		transform:translateY(0px);
+	}
+	
+	.ft2-team-section .owl-carousel .owl-stage-outer{
+		padding-bottom:0px;
+	}
+	
+	.ft3-header-style-three .nav-outer{
+		padding-right:0px;
+	}
+	
+	.ft3-header-style-three .header-upper .inner-container{
+		padding-left:0px;
+	}
+	
+	.ft3-header-top-three .ft3-top-left .top-list li:last-child{
+		margin-bottom:0px;
+		display:none;
+	}
+	
+	.slide-two-content .inner-box .image-box .content-inner{
+		padding:15px 20px 20px;
+	}
+	
+	.ft3-about-section .content-column{
+		order:2;
+	}
+	
+	.ft3-about-section .image-column{
+		order:3;
+	}
+	
+	.ft3-about-section .content-column .inner-column,
+	.ft3-about-section .title-column .inner-column{
+		padding-top:0px;
+	}
+	
+	.ft3-about-section .lower-box h4 br{
+		display:none;
+	}
+	
+	.ft3-portfolio-section .owl-nav{
+		right:0px;
+	}
+	
+	.ft3-portfolio-block .inner-box .content-box{
+		margin-top:0px;
+		max-width:100%;
+	}
+	
+	.ft3-portfolio-section .owl-nav{
+		position:relative;
+		margin-top:30px;
+	}
+	
+	.ft3-portfolio-block .inner-box .content-box{
+		padding:30px 0px 0px;
+	}
+	
+	.ft3-portfolio-section .owl-nav .owl-prev,
+	.ft3-portfolio-section .owl-nav .owl-next{
+		margin-left:0px;
+		margin-right:20px;
+	}
+	
+	.ft2-team-section-two .owl-dots{
+		position:relative;
+		top:0px;
+		right:0px;
+		text-align:center;
+	}
+	
+	.ft3-testimonial-section-three .owl-nav{
+		margin-top:0px;
+		margin-left:0px;
+	}
+	
+	.ft3-cta-section-two h3 br{
+		display:none;
+	}
+	
+	.ft3-header-style-three .sticky-header .mobile-nav-toggler{
+		display:block !important;
+	}
+	
+}
+
+@media only screen and (max-width: 767px){
+	
+	.ft1-main-header .ft1-header-top .ft1-top-right{
+		display:none;
+	}
+	
+	.sec-title .title{
+		font-size:17px;
+	}
+	
+	.ft3-testimonial-block-three .content-column .inner-column{
+		margin-right:0px;
+		padding:0px 30px 30px 30px;
+	}
+	
+	.ft3-testimonial-section-three{
+		padding-top:80px;
+	}
+	
+	.slide-two-content .inner-box .image-box .content-inner h2,
+	h2{
+		font-size:32px;
+	}
+	
+	h1,
+	.ft1-main-slider h1 span{
+		font-size:46px;
+	}
+	
+	.ft3-news-block-four .inner-box .overlay-box h3,
+	h3{
+		font-size:28px;
+	}
+	
+	.ft1-main-slider .text{
+		font-size:16px;
+	}
+	
+	.ft1-tracking-section .featured-column .inner-column{
+		text-align:center;
+		padding-left:0px;
+		padding-bottom:0px;
+	}
+	
+	.ft3-header-top-three .ft3-top-left,
+	.ft1-location-section .column::before,
+	.feature-block .inner-box:before{
+		display:none;
+	}
+	
+	.feature-block{
+		margin-bottom:30px;
+	}
+	
+	.ft1-track-tabs .tab-btns{
+		margin-bottom:0px;
+	}
+	
+	.ft1-track-tabs .tabs-content{
+		padding:30px 30px;
+	}
+	
+	.ft1-location-section .post-info li{
+		display:block;
+	}
+	
+	.ft1-main-footer .footer-bottom .pull-left,
+	.ft1-main-footer .footer-bottom .pull-right{
+		width:100%;
+		text-align:center;
+	}
+	
+	.ft1-main-footer .footer-bottom .copyright{
+		margin-bottom:10px;
+	}
+	
+	.ft1-header-top .ft1-top-left .top-list li{
+		font-size:15px;
+	}
+	
+	.sticky-header .mobile-nav-toggler{
+		display:block;
+	}
+	
+	.ft1-main-header .sticky-header .btn-box{
+		display:none;
+	}
+	
+	.ft1-main-header{
+		position:relative;
+	}
+	
+	.ft2-banner-section{
+		padding-top:120px;
+	}
+	
+	.ft1-main-header.ft2-header-style-two{
+		background-color:#111111;
+	}
+	
+	.ft1-main-header.ft2-header-style-two .header-upper .logo-box{
+		padding:10px 0px;
+	}
+	
+	.ft2-team-section .sec-title-two h2{
+		font-size:40px;
+	}
+	
+	.ft2-footer-style-two .footer-bottom .copyright{
+		padding-right:0px;
+		border:0px;
+	}
+	
+	.ft2-footer-style-two .contact-widget .widget-content{
+		padding:50px 50px 40px;
+	}
+	
+	.ft2-footer-style-two .logo-box{
+		position:relative;
+		margin-bottom:40px;
+		display:inline-block;
+	}
+	
+	.ft1-main-header.ft2-header-style-two .nav-outer{
+		padding-right:0px;
+	}
+	
+	.slide-two-content .inner-box .image-box .content-inner{
+		padding:0px 0px;
+		max-width:100%;
+	}
+	
+	.slide-two-content .inner-box .image-box .image .overlay-box .overlay-inner,
+	.slide-two-content .inner-box .image-box .image .overlay-box{
+		position:relative;
+	}
+	
+	.slide-two-content .inner-box .image-box .image .overlay-box .overlay-inner{
+		padding:30px 15px 50px;
+	}
+	
+	.ft3-main-slider-two .product-details .image-column .thumbs-carousel li{
+		font-size:18px;
+	}
+	
+	.ft3-main-slider-two .product-details .image-column .thumbs-carousel{
+		border-top:1px solid #e3e3e3;
+	}
+	
+	.ft3-about-section .lower-box h4{
+		padding:30px 0px;
+	}
+	
+	.ft3-header-top-three .ft3-top-right{
+		width:100%;
+		text-align:center;
+	}
+	
+	.ft2-team-section .ft2-team-block.translate-top{
+		transform: translateY(0px);
+	}
+	
+}
+
+@media only screen and (max-width: 599px){
+	
+	h1{
+		font-size:34px;
+	}
+	
+	.sec-title-two h2,
+	.ft2-team-section .sec-title-two h2,
+	h2{
+		font-size:30px;
+	}
+	
+	.ft1-main-slider .text{
+		font-size:16px;
+	}
+	
+	.sec-title-two h2 br,
+	.sec-title-two .text br,
+	.ft1-location-section .post-info li br,
+	.sec-title .text br,
+	.ft1-main-header .btn-box,
+	.ft1-main-slider .text br,
+	.sec-title h2 br{
+		display:none;
+	}
+	
+	.ft1-header-top .ft1-top-left .top-list{
+		text-align:center;
+	}
+	
+	.ft1-header-top .ft1-top-left .top-list li:last-child{
+		border:0px;
+		margin-right:0px;
+		padding-right:0px;
+	}
+	
+	.tracking-form .form-group{
+		padding-right:0px;
+	}
+	
+	.tracking-form .form-group button{
+		position:relative;
+		width:100%;
+		margin-top:20px;
+	}
+	
+	.ft1-track-tabs .tab-btns .tab-btn{
+		width:100%;
+	}
+	
+	.ft2-opportunity-section .counter-column .ft-fact-counter{
+		position:relative;
+		display:block;
+		width:100%;
+	}
+	
+	.ft2-service-block-two .inner-box .lower-content{
+		left:20px;
+		right:20px;
+	}
+	
+	.ft2-testimonial-block-two .inner-box .text{
+		font-size:20px;
+	}
+	
+	.ft2-footer-style-two .contact-widget .widget-content{
+		padding:30px 30px;
+	}
+	
+	.ft2-footer-style-two .footer-bottom .social-box{
+		margin-left:0px;
+		margin-top:20px;
+	}
+	
+	.ft2-banner-section .upper-content h1{
+		margin-top:30px;
+	}
+	
+	.ft2-banner-section .lower-content{
+		padding-top:30px;
+	}
+	
+	.ft3-portfolio-block .inner-box .image .number{
+		font-size:100px;
+	}
+	
+	.ft3-about-section .title-column .text{
+		padding-left:0px;
+		padding-right:0px;
+	}
+	
+	.ft2-team-section-two .owl-dots .owl-dot{
+		left:-15px;
+	}
+	
+}
+
+@media only screen and (max-width: 479px) {
+	
+	h1,
+	.ft1-main-slider h1,
+	.ft1-main-slider h1 span{
+		font-size:22px;
+	}
+	
+	.sec-title-two h2, .ft2-team-section .sec-title-two h2, h2{
+		font-size:24px;
+	}
+	
+	.ft2-footer-style-two .contact-widget h2{
+		font-size:32px;
+	}
+	
+	h3{
+		font-size:28px;
+	}
+	
+	h4{
+		font-size:22px;
+	}
+	
+	.ft3-contact-info-section .contact-column .upper-box h5{
+		font-size:20px;
+	}
+	
+	.ft1-main-slider .text{
+		font-size:13px;
+	}
+	
+	.ft3-testimonial-block-three .content-column .text{
+		font-size:16px;
+	}
+	
+	.ft3-service-block-three .overlay-inner .lower-text br{
+		display:none;
+	}
+	
+	.sec-title .title{
+		letter-spacing:1px;
+	}
+	
+	.ft1-main-header .header-upper{
+		background-color:#ffffff;
+	}
+	
+	.ft1-main-header .nav-outer{
+		padding-right:0px;
+	}
+	
+	.ft1-main-header .header-upper .inner-container{
+		padding-left:0px;
+	}
+	
+	.ft1-main-header .header-upper .logo-box{
+		padding:5px 0px;
+	}
+	
+	.sticky-header .logo img,
+	.ft1-main-header .header-upper .logo-box .logo img{
+		width:180px;
+	}
+	
+	.ft1-header-top .ft1-top-left .top-list li{
+		font-size:14px;
+	}
+	
+	.ft1-welcome-section .image-column .inner-column{
+		padding-right:0px;
+	}
+	
+	.ft1-welcome-section .image-column .year-box{
+		right:0px;
+		bottom:0px;
+	}
+	
+	.ft1-welcome-section .image-column .year-box{
+		padding:20px 20px;
+	}
+	
+	.service-block .inner-box .side-icon{
+		position:relative;
+	}
+	
+	.service-block .inner-box .color-layer{
+		top:auto;
+		bottom:-150px;
+	}
+	
+	.ft1-tracking-section-two .career-column .inner-column{
+		padding:20px 20px;
+	}
+	
+	.ft1-tracking-section-two .career-column h4{
+		margin-bottom:20px;
+	}
+	
+	.ft1-tracking-section-two .career-column .btn-box{
+		margin-top:30px;
+	}
+	
+	.ft1-news-block .inner-box .image .post-info,
+	.ft1-project-block .inner-box .lower-content h4 br{
+		display:none;
+	}
+	
+	.ft1-main-header.ft2-header-style-two .header-upper{
+		background-color:#111111;
+	}
+	
+	.ft1-main-header.ft2-header-style-two .header-upper .mobile-nav-toggler{
+		font-size:0px !important;
+		padding:15px 10px 15px 3px;
+	}
+	
+	.ft2-banner-section .upper-content .title{
+		letter-spacing:0px;
+	}
+	
+	.ft3-contact-info-section .contact-column .lower-box a{
+		font-size:14px;
+	}
+	
+	.ft3-contact-info-section .contact-column .lower-box{
+		padding:15px 20px 20px;
+	}
+	
+	.ft1-service-block .inner-box .color-layer,
+	.ft1-service-block .inner-box .side-icon,
+	.ft2-service-block-two .inner-box .lower-content .title,
+	.ft3-news-block-four .inner-box .post-meta,
+	.ft3-news-block-four .inner-box .overlay-box h3 br{
+		display:none;
+	}
+	
+	.ft3-news-block-four .inner-box .overlay-box h3, h3{
+		font-size:20px;
+	}
+	
+	.ft3-news-block-four .inner-box .overlay-box{
+		left:20px;
+		bottom:20px;
+		right:20px;
+	}
+	
+	.ft3-news-block-four .inner-box .post-meta li{
+		font-size:11px;
+	}
+	
+	.ft3-news-block-four .inner-box .post-meta li:first-child .icon{
+		top:-12px;
+	}
+	
+	.ft1-track-tabs .tabs-content{
+		padding:25px 20px;
+	}
+	
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="autoload.php" server="transportarlogistics.com" local="133274462971718826" remote="133247134200000000" Dst="2" />
+<file name="config.php" server="transportarlogistics.com" local="133274462974455510" remote="133266006000000000" Dst="2" />
+<file name="constants.php" server="transportarlogistics.com" local="133274462974909854" remote="133240146000000000" Dst="2" />
+<file name="database.php" server="transportarlogistics.com" local="133274462976779520" remote="133240430400000000" Dst="2" />
+<file name="doctypes.php" server="transportarlogistics.com" local="133274462978850799" remote="133240146000000000" Dst="2" />
+<file name="email_reset_pass.php" server="transportarlogistics.com" local="133235610236913339" remote="133235214600000000" Dst="0" />
+<file name="foreign_chars.php" server="transportarlogistics.com" local="133274462985009264" remote="133240146000000000" Dst="2" />
+<file name="hooks.php" server="transportarlogistics.com" local="133274462986297255" remote="133240146000000000" Dst="2" />
+<file name="index.html" server="transportarlogistics.com" local="133274462987968975" remote="133240146000000000" Dst="2" />
+<file name="memcached.php" server="transportarlogistics.com" local="133274462992367175" remote="133240146000000000" Dst="2" />
+<file name="migration.php" server="transportarlogistics.com" local="133274462993536695" remote="133240146000000000" Dst="2" />
+<file name="mimes.php" server="transportarlogistics.com" local="133274462994761984" remote="133240146000000000" Dst="2" />
+<file name="profiler.php" server="transportarlogistics.com" local="133274462996576118" remote="133240146000000000" Dst="2" />
+<file name="routes.php" server="transportarlogistics.com" local="133274462997775112" remote="133240907400000000" Dst="2" />
+<file name="smileys.php" server="transportarlogistics.com" local="133274462999365965" remote="133240146000000000" Dst="2" />
+<file name="user_agents.php" server="transportarlogistics.com" local="133274463000900667" remote="133240146000000000" Dst="2" />
+<file name="email_to_company.php" server="transportarlogistics.com" local="133274462981210251" remote="133247127000000000" Dst="2" />
+<file name="email_to_logistics.php" server="transportarlogistics.com" local="133274462983096206" remote="133251410400000000" Dst="2" />
+<file name="mailtocarriers_drivers.php" server="transportarlogistics.com" local="133274462990389370" remote="133250875800000000" Dst="2" />
+<file name="info_mail.php" server="transportarlogistics.com" local="133274462989718035" remote="133251477600000000" Dst="2" />
+</dwsync>
